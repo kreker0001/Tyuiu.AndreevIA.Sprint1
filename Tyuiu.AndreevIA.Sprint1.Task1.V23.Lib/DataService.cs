@@ -6,7 +6,7 @@ namespace Tyuiu.AndreevIA.Sprint1.Task1.V23.Lib
     {
         public double Calculate(double x, double a)
         {
-            return (x * 3.14159265358979) / (2 * a);
+            return (x * 3.14) / (2 * a);
         }
     }
 }
